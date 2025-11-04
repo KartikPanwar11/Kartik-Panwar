@@ -1,8 +1,11 @@
-# Hi there, I'm Kartik Panwar 👋  
-🚀 Full-Stack Developer | JavaScript | React | Node.js | MERN Stack
+# Hi there, I'm Kartik Panwar 
+Full-Stack Developer | JavaScript | React | Node.js | MERN Stack
 
 I’m a passionate developer who loves turning ideas into scalable products.  
 Currently focusing on building real-world full-stack apps and mastering system design.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FIERY&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FIERY&theme=tokyo-night)
 
 ---
 
@@ -14,14 +17,15 @@ Currently focusing on building real-world full-stack apps and mastering system d
 
 ---
 
-### 📈 My GitHub Stats
+###  My GitHub Stats
 Working on it
 ---
 
-### 🧠 What I’m Learning
+### What I’m Learning
+- Generative AI
+- AI/ML(Curreently specializing)
 - Advanced React Patterns
 - System Design for Full Stack Apps
-- Building Reusable UI Components
 
 ---
 
