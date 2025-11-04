@@ -46,11 +46,6 @@
 ###  GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FIERY&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIERY&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FIERY&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -71,10 +66,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/kartikpanwar11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:Kartikpanwar1101@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -82,5 +77,7 @@
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> 😄
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>
+![snake gif](https://github.com/FIERY/FIERY/blob/output/github-contribution-grid-snake.svg)
+
